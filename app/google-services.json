@@ -1,0 +1,196 @@
+{
+  "project_info": {
+    "project_number": "211641247224",
+    "firebase_url": "https://gaitdetection.firebaseio.com",
+    "project_id": "gaitdetection",
+    "storage_bucket": "gaitdetection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211641247224:android:2606d499d594a1d6ab220d",
+        "android_client_info": {
+          "package_name": "com.appdevplus.physician"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211641247224-br0on10vt9ma3p3qhnt7dn69i7jvtr10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlaC0OiMg4fu59djTXE-umIxPqEFSt0sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211641247224-br0on10vt9ma3p3qhnt7dn69i7jvtr10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211641247224:android:831de1d6a1d19874ab220d",
+        "android_client_info": {
+          "package_name": "com.example.caregiver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211641247224-s5b1eqve3eam0qm2q3e39fracajt9qil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.caregiver",
+            "certificate_hash": "6d2d43a585858be29563cbe19566d737cbe2691c"
+          }
+        },
+        {
+          "client_id": "211641247224-br0on10vt9ma3p3qhnt7dn69i7jvtr10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlaC0OiMg4fu59djTXE-umIxPqEFSt0sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211641247224-br0on10vt9ma3p3qhnt7dn69i7jvtr10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211641247224:android:0d9fd3b0d6c647c6ab220d",
+        "android_client_info": {
+          "package_name": "com.example.gaitdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211641247224-o0sumaldk0s24727ktf42u371oh8002v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gaitdetection",
+            "certificate_hash": "6d2d43a585858be29563cbe19566d737cbe2691c"
+          }
+        },
+        {
+          "client_id": "211641247224-qodc7k4ldb8tmfncvh41s3ipi2h83eh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gaitdetection",
+            "certificate_hash": "7194d9321608535effbbe92a61509214d3100305"
+          }
+        },
+        {
+          "client_id": "211641247224-br0on10vt9ma3p3qhnt7dn69i7jvtr10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlaC0OiMg4fu59djTXE-umIxPqEFSt0sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211641247224-br0on10vt9ma3p3qhnt7dn69i7jvtr10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211641247224:android:bfb1abe9e797bfc6ab220d",
+        "android_client_info": {
+          "package_name": "com.example.notify_patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211641247224-9j3aic6edipenuiv1lqats2f4sn0rgsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notify_patient",
+            "certificate_hash": "6d2d43a585858be29563cbe19566d737cbe2691c"
+          }
+        },
+        {
+          "client_id": "211641247224-br0on10vt9ma3p3qhnt7dn69i7jvtr10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlaC0OiMg4fu59djTXE-umIxPqEFSt0sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211641247224-br0on10vt9ma3p3qhnt7dn69i7jvtr10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211641247224:android:cda4202b88ff2a88ab220d",
+        "android_client_info": {
+          "package_name": "com.example.physician"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211641247224-i9ha27pbr57drdtot7kkbc3vt79mndg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.physician",
+            "certificate_hash": "6d2d43a585858be29563cbe19566d737cbe2691c"
+          }
+        },
+        {
+          "client_id": "211641247224-br0on10vt9ma3p3qhnt7dn69i7jvtr10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlaC0OiMg4fu59djTXE-umIxPqEFSt0sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211641247224-br0on10vt9ma3p3qhnt7dn69i7jvtr10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
