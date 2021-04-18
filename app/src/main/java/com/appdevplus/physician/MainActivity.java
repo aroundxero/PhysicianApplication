@@ -13,10 +13,15 @@ import android.view.View;
 
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
     public static final String TAG = "MainActivity";
+
+    public String title, body;
+
+    private TextView textViewTitle, textViewBody;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,9 +33,19 @@ public class MainActivity extends AppCompatActivity {
         Bundle extras = getIntent().getExtras();
         if (extras != null)
         {
-            Log.d("onCreate", "MainActivity --> extras title: " + getIntent().getStringExtra("title"));
-            Log.d("onCreate", "MainActivity --> extras body: " + getIntent().getStringExtra("body"));
+            title = getIntent().getStringExtra("title");
+            body = getIntent().getStringExtra("body");
+            Log.d("onCreate", "MainActivity --> extras title: " + title);
+            Log.d("onCreate", "MainActivity --> extras body: " + body);
+
+            textViewTitle = (TextView) findViewById(R.id.textViewTitle);
+            textViewTitle.setText(title);
+
+            textViewBody = (TextView) findViewById(R.id.textViewBody);
+            textViewBody.setText(body);
+
         }
+
 
         FloatingActionButton fab = findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
